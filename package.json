@@ -1,24 +1,24 @@
 {
-  "name": "on-line-shop",
+  "name": "crud_hillel",
   "version": "1.0.0",
-  "description": "On-line shop ",
+  "description": "House task",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/osa-a/on-line-shop.git"
+    "url": "git+https://github.com/katerina-kz/CRUD"
   },
   "keywords": [
-    "furniture"
+    "crud"
   ],
-  "author": "WE",
+  "author": "katerina-kz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/osa-a/on-line-shop/issues"
+    "url": "https://github.com/katerina-kz/CRUD/issues"
   },
-  "homepage": "https://github.com/osa-a/on-line-shop#readme",
+  "homepage": "https://github.com/katerina-kz/CRUD/#readme",
   "dependencies": {
     "bootstrap": "^4.5.0",
     "jquery": "^3.4.1",
