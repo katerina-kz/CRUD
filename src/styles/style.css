@@ -1,0 +1,104 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #ffffff;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    background-color: #273a4e;
+}
+
+.hidden {
+    display: none;
+}
+
+.error {
+    color: red;
+}
+
+.button-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-box .btn:not(:last-child) {
+    margin-right: 10px;
+}
+
+.caption {
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    width: 1060px;
+}
+
+.caption div {
+    padding: 10px;
+    width: 50%;
+    border: 1px solid #ffffff;
+}
+
+.caption span {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.data div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 1060px;    
+    
+    border: 1px solid #ffffff;
+}
+
+.data div div {
+    width: 50%;
+}
+
+.action-box button.btn:not(:last-child) {
+    margin-right: 10px;
+}
+
+.action-block {
+    margin-top: 30px;
+    position: relative;
+}
+
+.form-control {
+    height: 250px;
+    border: none;
+}
+
+label {
+    display: block;
+}
+
+.delete-popup {
+    text-align: center;
+}
+
+button.close {
+    position: absolute;
+    top: 0%;
+    right: 0%;
+}
+
+select {
+    margin-left: 10px;
+}
+
+.wrongCar {
+    color: red;
+}
